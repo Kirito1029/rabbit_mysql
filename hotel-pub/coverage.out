@@ -1,0 +1,19 @@
+mode: set
+hotel-pub/main.go:15.13,19.16 4 1
+hotel-pub/main.go:23.2,25.16 3 1
+hotel-pub/main.go:19.16,22.3 2 0
+hotel-pub/main.go:25.16,28.3 2 0
+hotel-pub/main.go:28.8,30.3 1 1
+hotel-pub/main.go:33.13,36.16 3 1
+hotel-pub/main.go:40.2,43.4 1 1
+hotel-pub/main.go:36.16,39.3 2 0
+hotel-pub/main.go:46.68,51.2 4 1
+hotel-pub/config.go:10.55,12.16 2 1
+hotel-pub/config.go:15.2,16.16 2 1
+hotel-pub/config.go:19.2,19.8 1 1
+hotel-pub/config.go:12.16,14.3 1 0
+hotel-pub/config.go:16.16,18.3 1 0
+hotel-pub/config.go:22.50,24.36 1 1
+hotel-pub/config.go:27.2,27.33 1 1
+hotel-pub/config.go:24.36,26.3 1 1
+hotel-pub/config.go:27.33,29.3 1 1

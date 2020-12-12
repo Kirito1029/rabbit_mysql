@@ -1,0 +1,9 @@
+dbconfig:
+  address: "127.0.0.1"
+  port: "3306"
+  username: "root"
+  password: "password"
+  databaseName: hoteloffer
+rabbitmqconfig:
+  address: "127.0.0.1"
+  port: "5672"
