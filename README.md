@@ -7,7 +7,7 @@ How to Run Simulation:
 <repo>/hotel-sub/dependency/hotelOfferMgrConfig.yaml
 <repo>/hotel-pub/dependency/hotelOfferPubConfig.yaml
 ```
-2. Create Database hoteloffer
+2. Create Database hoteloffer on specified MySql server
 3. Go to hotel-sub folder and start binary 
 
 ```
@@ -19,6 +19,7 @@ cd <repo>/hotel-sub
 cd <repo>/hotel-pub
 ./hotel-pub
 ```
+Repeat above to send data multiple times
 
 ######NOTE
 1. If Message sent has to be changed change `hotelData` variable in `<repo>/hotel-pub/def.go`
