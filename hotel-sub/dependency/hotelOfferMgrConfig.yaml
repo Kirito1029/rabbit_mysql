@@ -1,9 +1,9 @@
 dbconfig:
-  address: "127.0.0.1"
-  port: "3306"
-  username: "root"
-  password: "password"
+  address: "127.0.0.1" #change this to MySql Server IP
+  port: "3306" #Change this to MYSql Server Port
+  username: "root"  #Change this to your Server user
+  password: "password"  #Change this to password of above user (ideally should be taken from secrets not config)
   databaseName: hoteloffer
 rabbitmqconfig:
-  address: "127.0.0.1"
-  port: "5672"
+  address: "127.0.0.1" #Change this to RabbitMQ server IP
+  port: "5672" #Change this to RabbitMQ server port
